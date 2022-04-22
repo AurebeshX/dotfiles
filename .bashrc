@@ -25,12 +25,8 @@ export LSCOLORS="ExGxBxDxCxEgEdxbxgxcxd"
 export EDITOR=vim
 export VISUAL="$EDITOR"
 
-alias moshdev="mosh -6 dev"
 alias tm="tmux new-session -A -s LOCAL"
-alias irc="weechat"
 alias upbrew="brew update && brew upgrade"
-alias py="python3.6"
-alias pip="pip3.6"
 
 # vi commands in bash
 set -o vi

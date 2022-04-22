@@ -9,7 +9,6 @@ set showmatch
 
 " show line numbers
 set number
-set relativenumber
 hi LineNr ctermfg=gray
 hi CursorLineNr ctermfg=darkgray
 hi LineNr ctermfg=gray
